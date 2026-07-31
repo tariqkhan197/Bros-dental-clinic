@@ -1,0 +1,6 @@
+{
+  "name": "BROS Dental Clinic",
+  "description": "Premium luxury dental clinic website with online appointments, services, interactive gallery, and AI dental advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
